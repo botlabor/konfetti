@@ -1,0 +1,40 @@
+<style>
+  
+  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+  *{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 300;
+  }
+    strong {
+    font-weight: 500;
+  }
+    h1.notion-heading  {
+    font-size: 2rem;
+    font-weight: 400;
+  }
+      h2.notion-heading  {
+    font-size: 1.7rem;
+    font-weight: 400;
+  }
+      h3.notion-heading  {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+    p {
+    font-size: 1.1rem;
+    font-weight: 300;
+  }
+ .notion-bulleted-list, .notion-numbered-list{
+    font-size: 1.1rem;
+    font-weight: 300;
+  }
+
+#__next{
+  background-color: white;
+  }
+body{
+  padding: 30px;
+  background-image: url("https://raw.githubusercontent.com/botlabor/konfetti/513f4b36186cff9a1378e1d8eff7d75de4b5b44c/bg-klein.png");
+  }
+
+</style>
