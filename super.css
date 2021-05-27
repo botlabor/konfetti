@@ -1,5 +1,3 @@
-<style>
-  
   @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
   *{
     font-family: 'Barlow', sans-serif;
@@ -36,5 +34,3 @@ body{
   padding: 30px;
   background-image: url("https://raw.githubusercontent.com/botlabor/konfetti/513f4b36186cff9a1378e1d8eff7d75de4b5b44c/bg-klein.png");
   }
-
-</style>
